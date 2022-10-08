@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @UAdant
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-
+- 👀 I’m interested in Front-end
+- 🌱 I’m currently learning JS
 
 <!---
 UAdant/UAdant is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
