@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dima
 - 👀 I’m interested in Front-end, Back-end.
-- 🌱 I’m currently learning HTML/CSS, JS, React, React Native, Angular, Bootstrap, MySQL, PHP, Java, Git, Unity 2D.
+- 🌱 I’m currently learning HTML/CSS, JS, React, React Native, Angular, Bootstrap, MySQL, PHP, Java, Git, C/C++, C#, Unity 2D.
 
 <!---
 UAdant/UAdant is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
