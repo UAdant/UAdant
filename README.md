@@ -3,9 +3,10 @@
 ### Languages:
 
 <ul>
-  <code>🇺🇦 Ukrainian - Native</code>
-  <code>🇬🇧 English - Elementary</code>
+  <li><code>🇺🇦 Ukrainian - Native</code></li>
+  <li><code>🇬🇧 English - Elementary</code></li>
 </ul>
+
 
 
 <a href="https://github.com/https://github.com/UAdant" target="_blank">
