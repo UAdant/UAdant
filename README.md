@@ -2,9 +2,10 @@
 
 ### Languages:
 <ul style="list-style: none; padding: 0; margin: 0;">
-  <li style="display: inline;"><code>🇺🇦 Ukrainian - Native</code></li>
-  <li style="display: inline;"><code>🇬🇧 English - Elementary</code></li>
+  <li style="display: block;"><code>🇺🇦 Ukrainian - Native</code></li>
+  <li style="display: block;"><code>🇬🇧 English - Elementary</code></li>
 </ul>
+
 
 
 
