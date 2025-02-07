@@ -2,10 +2,11 @@
 
 ### Languages:
 
-<ul>
+<ul style="list-style: none; padding: 0; margin: 0;">
   <li><code>🇺🇦 Ukrainian - Native</code></li>
   <li><code>🇬🇧 English - Elementary</code></li>
 </ul>
+
 
 
 
