@@ -1,5 +1,11 @@
 ## Hey 👋, I'm Dima Sadovskiy  
-  
+
+### Languages:
+
+<ul>
+  <li>🇺🇦 Ukrainian - Native</li>
+  <li>🇬🇧 English - Elementary</li>
+</ul>
 
 <a href="https://github.com/https://github.com/UAdant" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
