@@ -3,8 +3,8 @@
 ### Languages:
 
 <ul>
-  <code><li>🇺🇦 Ukrainian - Native</li></code>
-  <code<li>🇬🇧 English - Elementary</li></code>
+  <code>🇺🇦 Ukrainian - Native</code>
+  <code>🇬🇧 English - Elementary</code>
 </ul>
 
 
